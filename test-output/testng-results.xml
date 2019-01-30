@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17968" started-at="2019-01-28T18:41:53Z" finished-at="2019-01-28T18:42:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17968" started-at="2019-01-28T18:41:53Z" finished-at="2019-01-28T18:42:11Z">
+      <class name="test.ReggieSmokeTest">
+        <test-method status="PASS" signature="setSystemProperties()[pri:0, instance:test.ReggieSmokeTest@9a7504c]" name="setSystemProperties" is-config="true" duration-ms="3023" started-at="2019-01-28T18:41:53Z" finished-at="2019-01-28T18:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setSystemProperties -->
+        <test-method status="PASS" signature="getURL()[pri:0, instance:test.ReggieSmokeTest@9a7504c]" name="getURL" is-config="true" duration-ms="2261" started-at="2019-01-28T18:41:56Z" finished-at="2019-01-28T18:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:test.ReggieSmokeTest@9a7504c]" name="loginTest" duration-ms="7735" started-at="2019-01-28T18:41:59Z" finished-at="2019-01-28T18:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="closeURL()[pri:0, instance:test.ReggieSmokeTest@9a7504c]" name="closeURL" is-config="true" duration-ms="0" started-at="2019-01-28T18:42:06Z" finished-at="2019-01-28T18:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeURL -->
+        <test-method status="PASS" signature="getURL()[pri:0, instance:test.ReggieSmokeTest@9a7504c]" name="getURL" is-config="true" duration-ms="1224" started-at="2019-01-28T18:42:06Z" finished-at="2019-01-28T18:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method status="PASS" signature="homePageDashboardLinksTest()[pri:2, instance:test.ReggieSmokeTest@9a7504c]" name="homePageDashboardLinksTest" duration-ms="2517" started-at="2019-01-28T18:42:08Z" finished-at="2019-01-28T18:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageDashboardLinksTest -->
+        <test-method status="PASS" signature="closeURL()[pri:0, instance:test.ReggieSmokeTest@9a7504c]" name="closeURL" is-config="true" duration-ms="0" started-at="2019-01-28T18:42:10Z" finished-at="2019-01-28T18:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeURL -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:test.ReggieSmokeTest@9a7504c]" name="closeDriver" is-config="true" duration-ms="1185" started-at="2019-01-28T18:42:10Z" finished-at="2019-01-28T18:42:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- test.ReggieSmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
